@@ -186,7 +186,7 @@ header div a:hover {
     margin-left: 6px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
 
     .container {
         width: 100%;
@@ -283,8 +283,8 @@ header div a:hover {
     }
 
     .description-about h3 {
-        font-size: 30px;
-        margin-bottom: 0;
+        font-size: 24px;
+        margin-bottom: 5px;
     }
     
     .description-about p {
@@ -295,6 +295,7 @@ header div a:hover {
     #Qualificações {
         background-color:  rgb(7, 51, 65);
         color: white;
+        font-size: 24px;
         padding-left: 15px;
         padding-top: 15px;
     }

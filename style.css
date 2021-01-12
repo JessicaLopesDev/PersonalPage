@@ -186,7 +186,7 @@ header div a:hover {
     margin-left: 6px;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1000px) {
 
     .container {
         width: 100%;
